@@ -1528,16 +1528,15 @@ CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
-CCTV5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
-CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 
 IPV6-卫视频道,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -1581,20 +1580,12 @@ IPV6-卫视频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 中国教育1台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 中国教育2台,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 IPV6-地方频道,#genre#
-上海新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1614,8 +1605,7 @@ IPV6-地方频道,#genre#
 IPV6-数字频道,#genre#
 上海纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-全纪实,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
+全纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
@@ -1628,15 +1618,10 @@ IPV6-数字频道,#genre#
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-哒啵电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-求索科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 newtv超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 newtv超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 newtv超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -1709,7 +1694,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 石家庄_滹沱河平山段1[1080P],https://live.pull.hebtv.com/live/mzb195.m3u8
 石家庄_滹沱河平山段2[1080P],https://live.pull.hebtv.com/live/mzb372.m3u8
 石家庄_滹沱河平山段3[1080P],https://live.pull.hebtv.com/live/mzb373.m3u8
-石家庄_滹沱河无极段[1080P],https://live.pull.hebtv.com/live/mzb205.m3u8
 石家庄_滹沱河晋州段[1080P],https://live.pull.hebtv.com/live/mzb368.m3u8
 石家庄_滹沱河鹿泉段[1080P],https://live.pull.hebtv.com/live/mzb392.m3u8
 石家庄_滹沱河藁城段1[1080P],https://live.pull.hebtv.com/live/mzb374.m3u8
@@ -1729,7 +1713,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 石家庄_正定南城门2[1080P],https://live.pull.hebtv.com/live/mzb431.m3u8
 石家庄_新乐 伏羲台[1080P],https://live.pull.hebtv.com/live/mzb150.m3u8
 石家庄_井陉 陶瓷水镇[1080P],https://live.pull.hebtv.com/live/mzb187.m3u8
-石家庄_井陉 苍岩山[1080P],https://live.pull.hebtv.com/live/mzb210.m3u8
 石家庄_井陉矿区 杏花沟生态公园[1080P],https://live.pull.hebtv.com/live/mzb152.m3u8
 石家庄_鹿泉 抱犊寨景区[1080P],https://live.pull.hebtv.com/live/mzb179.m3u8
 石家庄_鹿泉 西部长青·德明古镇[1080P],https://live.pull.hebtv.com/live/mzb238.m3u8
@@ -1747,7 +1730,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 石家庄_晋州 步行街[1080P],https://live.pull.hebtv.com/live/mzb301.m3u8
 石家庄_裕华区 万达火车头步行街[1080P],https://live.pull.hebtv.com/live/mzb586.m3u8
 石家庄_正太饭店[1080P],https://live.pull.hebtv.com/live/mzb587.m3u8
-石家庄_高邑 中兴广场[1080P],https://live.pull.hebtv.com/live/mzb214.m3u8
 石家庄_辛集 润泽湖公园[1080P],https://live.pull.hebtv.com/live/mzb341.m3u8
 石家庄_无极 木刀沟生态湿地[1080P],https://live.pull.hebtv.com/live/mzb440.m3u8
 石家庄_解放广场[1080P],https://live.pull.hebtv.com/live/mzb452.m3u8
@@ -1779,8 +1761,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 张家口_张北县 天保那苏图景区[1080P],https://live.pull.hebtv.com/live/mzb630.m3u8
 张家口_康巴诺尔湿地1[1080P],https://live.pull.hebtv.com/live/mzb202.m3u8
 张家口_康巴诺尔湿地2[1080P],https://live.pull.hebtv.com/live/mzb491.m3u8
-张家口_沽源 闪电河国家湿地1[1080P],https://live.pull.hebtv.com/live/mzb331.m3u8
-张家口_沽源 闪电河国家湿地2[1080P],https://live.pull.hebtv.com/live/mzb355.m3u8
 张家口_沽源 闪电河国家湿地3[1080P],https://live.pull.hebtv.com/live/mzb356.m3u8
 张家口_沽源 闪电河国家湿地4[1080P],https://live.pull.hebtv.com/live/mzb357.m3u8
 张家口_沽源 闪电河国家湿地5[1080P],https://live.pull.hebtv.com/live/mzb443.m3u8
@@ -1791,7 +1771,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 张家口_草原天路沽源段[1080P],https://live.pull.hebtv.com/live/mzb444.m3u8
 张家口_草原天路崇礼段[1080P],https://live.pull.hebtv.com/live/mzb632.m3u8
 张家口_草原天路张北段[1080P],https://live.pull.hebtv.com/live/mzb635.m3u8
-张家口_阳原县 泥河湾国家考古遗址公园[1080P],https://live.pull.hebtv.com/live/mzb219.m3u8
 张家口_人头山[1080P],https://live.pull.hebtv.com/live/mzb225.m3u8
 张家口_桑于河大峡谷生态旅游区[1080P],https://live.pull.hebtv.com/live/mzb311.m3u8
 张家口_万全右卫城[1080P],https://live.pull.hebtv.com/live/mzb615.m3u8
@@ -1842,7 +1821,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 保定_顺平 王氏庄园[1080P],https://live.pull.hebtv.com/live/mzb292.m3u8
 保定_徐水 瀑河休闲度假区[1080P],https://live.pull.hebtv.com/live/mzb263.m3u8
 保定_博野 万亩古梨园[1080P],https://live.pull.hebtv.com/live/mzb420.m3u8
-保定_唐县 大茂山[1080P],https://live.pull.hebtv.com/live/mzb361.m3u8
 保定_唐县 唐尧古镇[1080P],https://live.pull.hebtv.com/live/mzb348.m3u8
 保定_唐县 全胜峡[1080P],https://live.pull.hebtv.com/live/mzb422.m3u8
 保定_直隶总督署[1080P],https://live.pull.hebtv.com/live/mzb450.m3u8
@@ -1854,27 +1832,15 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 美丽河北(慢直播)-邯郸,#genre#
 邯郸_涉县 赤水湾古镇1[1080P],https://live.pull.hebtv.com/live/mzb423.m3u8
 邯郸_涉县 赤水湾古镇2[1080P],https://live.pull.hebtv.com/live/mzb425.m3u8
-邯郸_涉县 赤水湾古镇3[1080P],https://live.pull.hebtv.com/live/mzb461.m3u8
-邯郸_涉县 赤水湾古镇4[1080P],https://live.pull.hebtv.com/live/mzb526.m3u8
 邯郸_涉县 红色记忆小镇1[1080P],https://live.pull.hebtv.com/live/mzb139.m3u8
-邯郸_涉县 红色记忆小镇2[1080P],https://live.pull.hebtv.com/live/mzb511.m3u8
-邯郸_涉县 红色记忆小镇3[1080P],https://live.pull.hebtv.com/live/mzb513.m3u8
 邯郸_涉县 红色记忆小镇4[1080P],https://live.pull.hebtv.com/live/mzb534.m3u8
 邯郸_涉县 太行五指山1[1080P],https://live.pull.hebtv.com/live/mzb117.m3u8
 邯郸_涉县 太行五指山2[1080P],https://live.pull.hebtv.com/live/mzb370.m3u8
 邯郸_涉县 太行五指山3[1080P],https://live.pull.hebtv.com/live/mzb371.m3u8
-邯郸_涉县 太行五指山4[1080P],https://live.pull.hebtv.com/live/mzb509.m3u8
-邯郸_涉县 太行五指山5[1080P],https://live.pull.hebtv.com/live/mzb510.m3u8
 邯郸_涉县 娲皇宫景区1[1080P],https://live.pull.hebtv.com/live/mzb172.m3u8
-邯郸_涉县 娲皇宫景区2[1080P],https://live.pull.hebtv.com/live/mzb189.m3u8
-邯郸_涉县 娲皇宫景区3[1080P],https://live.pull.hebtv.com/live/mzb506.m3u8
-邯郸_涉县 娲皇宫景区4[1080P],https://live.pull.hebtv.com/live/mzb507.m3u8
 邯郸_涉县 韩王九寨景区1[1080P],https://live.pull.hebtv.com/live/mzb235.m3u8
 邯郸_涉县 韩王九寨景区2[1080P],https://live.pull.hebtv.com/live/mzb236.m3u8
 邯郸_涉县 韩王九寨景区3[1080P],https://live.pull.hebtv.com/live/mzb237.m3u8
-邯郸_涉县 韩王九寨景区4[1080P],https://live.pull.hebtv.com/live/mzb566.m3u8
-邯郸_涉县 韩王九寨景区5[1080P],https://live.pull.hebtv.com/live/mzb567.m3u8
-邯郸_涉县 韩王九寨景区6[1080P],https://live.pull.hebtv.com/live/mzb568.m3u8
 邯郸_广府古城1[1080P],https://live.pull.hebtv.com/live/mzb196.m3u8
 邯郸_广府古城2[1080P],https://live.pull.hebtv.com/live/mzb197.m3u8
 邯郸_广府古城3[1080P],https://live.pull.hebtv.com/live/mzb530.m3u8
@@ -1887,7 +1853,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 邯郸_武安市 七步沟2[1080P],https://live.pull.hebtv.com/live/mzb502.m3u8
 邯郸_武安市 七步沟3[1080P],https://live.pull.hebtv.com/live/mzb503.m3u8
 邯郸_武安市 古武当山1[1080P],https://live.pull.hebtv.com/live/mzb227.m3u8
-邯郸_武安市 古武当山2[1080P],https://live.pull.hebtv.com/live/mzb228.m3u8
 邯郸_武安市 古武当山3[1080P],https://live.pull.hebtv.com/live/mzb555.m3u8
 邯郸_武安市 古武当山4[1080P],https://live.pull.hebtv.com/live/mzb575.m3u8
 邯郸_武安市 东太行景区1[1080P],https://live.pull.hebtv.com/live/mzb325.m3u8
@@ -1911,10 +1876,8 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 邯郸_丛台区 大磨山公园2[1080P],https://live.pull.hebtv.com/live/mzb553.m3u8
 邯郸_复兴区 沁河郊野公园1[1080P],https://live.pull.hebtv.com/live/mzb556.m3u8
 邯郸_复兴区 沁河郊野公园2[1080P],https://live.pull.hebtv.com/live/mzb557.m3u8
-邯郸_大名县 大名府故城[1080P],https://live.pull.hebtv.com/live/mzb584.m3u8
 邯郸_馆陶 粮画小镇[1080P],https://live.pull.hebtv.com/live/mzb516.m3u8
 邯郸_临漳 邺城国家考古遗址公园1[1080P],https://live.pull.hebtv.com/live/mzb518.m3u8
-邯郸_临漳 邺城国家考古遗址公园2[1080P],https://live.pull.hebtv.com/live/mzb525.m3u8
 邯郸_临漳 三曹园[1080P],https://live.pull.hebtv.com/live/mzb512.m3u8
 邯郸_临漳 三台园[1080P],https://live.pull.hebtv.com/live/mzb519.m3u8
 邯郸_曲周 漳滏园[1080P],https://live.pull.hebtv.com/live/mzb570.m3u8
@@ -1922,6 +1885,8 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 邯郸_峰峰矿区 响堂山风景区2[1080P],https://live.pull.hebtv.com/live/mzb231.m3u8
 邯郸_峰峰矿区 响堂山风景区3[1080P],https://live.pull.hebtv.com/live/mzb618.m3u8
 邯郸_峰峰矿区 龙洞珠泉[1080P],https://live.pull.hebtv.com/live/mzb622.m3u8
+邯郸_鸡泽 诗经文化园1[1080P],https://live.pull.hebtv.com/live/mzb536.m3u8
+邯郸_鸡泽 诗经文化园2[1080P],https://live.pull.hebtv.com/live/mzb537.m3u8
 
 美丽河北(慢直播)-承德,#genre#
 承德_避暑山庄1[1080P],https://live.pull.hebtv.com/live/mzb118.m3u8
@@ -1991,7 +1956,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 邢台_南宫湖[1080P],https://live.pull.hebtv.com/live/mzb395.m3u8
 邢台_清河县 青阳广场[1080P],https://live.pull.hebtv.com/live/mzb264.m3u8
 邢台_清河 清凉江生态公园[1080P],https://live.pull.hebtv.com/live/mzb554.m3u8
-邢台_经济开发区 狗头泉公园[1080P],https://live.pull.hebtv.com/live/mzb385.m3u8
 邢台_柏乡 汉牡丹园[1080P],https://live.pull.hebtv.com/live/mzb391.m3u8
 邢台_新河县 南湖公园[1080P],https://live.pull.hebtv.com/live/mzb403.m3u8
 邢台_大运河临西段[1080P],https://live.pull.hebtv.com/live/mzb426.m3u8
@@ -2036,7 +2000,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 唐山_迁安 黄台山公园2[1080P],https://live.pull.hebtv.com/live/mzb545.m3u8
 唐山_迁安 金岭矿山传奇景区[1080P],https://live.pull.hebtv.com/live/mzb546.m3u8
 唐山_迁安 山叶口景区[1080P],https://live.pull.hebtv.com/live/mzb547.m3u8
-唐山_迁安 挂云山[1080P],https://live.pull.hebtv.com/live/mzb548.m3u8
 唐山_迁安 塔寺峪[1080P],https://live.pull.hebtv.com/live/mzb549.m3u8
 唐山_迁安 成山万亩林景区[1080P],https://live.pull.hebtv.com/live/mzb550.m3u8
 唐山_国际旅游岛 月岛[1080P],https://live.pull.hebtv.com/live/mzb320.m3u8
@@ -2085,7 +2048,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 沧州_青县 盐碱洼地生态修复示范区[1080P],https://live.pull.hebtv.com/live/mzb288.m3u8
 沧州_青县 盘古公园[1080P],https://live.pull.hebtv.com/live/mzb289.m3u8
 沧州_新华区 鼓楼广场[1080P],https://live.pull.hebtv.com/live/mzb276.m3u8
-沧州_新华区 王希鲁闸所水利研学公园[1080P],https://live.pull.hebtv.com/live/mzb278.m3u8
 沧州_渤海新区黄骅市 南海公园[1080P],https://live.pull.hebtv.com/live/mzb287.m3u8
 沧州_渤海新区黄骅市 西湖公园[1080P],https://live.pull.hebtv.com/live/mzb290.m3u8
 沧州_渤海新区黄骅市 天健湖公园[1080P],https://live.pull.hebtv.com/live/mzb294.m3u8
@@ -2113,8 +2075,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 沧州_百狮园公园[1080P],https://live.pull.hebtv.com/live/mzb598.m3u8
 沧州_孟村县 饶安公园[1080P],https://live.pull.hebtv.com/live/mzb307.m3u8
 沧州_吴桥杂技大世界[1080P],https://live.pull.hebtv.com/live/mzb130.m3u8
-沧州_盐山县 千童东渡遗址公园[1080P],https://live.pull.hebtv.com/live/mzb281.m3u8
-沧州_盐山县 文化新城[1080P],https://live.pull.hebtv.com/live/mzb286.m3u8
 沧州_园博园[1080P],https://live.pull.hebtv.com/live/mzb616.m3u8
 
 美丽河北(慢直播)-衡水,#genre#
@@ -2130,7 +2090,6 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 衡水_深州市 植物园[1080P],https://live.pull.hebtv.com/live/mzb467.m3u8
 衡水_阜城 阜城湖公园[1080P],https://live.pull.hebtv.com/live/mzb248.m3u8
 衡水_阜城 阜丰公园五馆一中心[1080P],https://live.pull.hebtv.com/live/mzb544.m3u8
-衡水_武强 周窝音乐小镇[1080P],https://live.pull.hebtv.com/live/mzb543.m3u8
 衡水_武强 音乐公园[1080P],https://live.pull.hebtv.com/live/mzb380.m3u8
 衡水_饶阳 饶邑古城[1080P],https://live.pull.hebtv.com/live/mzb178.m3u8
 衡水_滹沱河饶阳段[1080P],https://live.pull.hebtv.com/live/mzb393.m3u8
