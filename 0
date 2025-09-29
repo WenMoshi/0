@@ -828,7 +828,6 @@ BesTV Live 10[1080P],http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 秦皇岛_北戴河区 北戴河欢乐湾[1080P],https://live.pull.hebtv.com/live/mzb398.m3u8
 秦皇岛_北戴河新区 阿尔卡迪亚度假区[1080P],https://live.pull.hebtv.com/live/mzb400.m3u8
 秦皇岛_北戴河新区 蔚蓝海岸帆船基地[1080P],https://live.pull.hebtv.com/live/mzb142.m3u8
-秦皇岛_北戴河新区 七里海潟湖湿地[1080P],https://live.pull.hebtv.com/live/mzb477.m3u8
 秦皇岛_抚宁 冰糖峪景区[1080P],https://live.pull.hebtv.com/live/mzb158.m3u8
 秦皇岛_抚宁 燕山石林风景区[1080P],https://live.pull.hebtv.com/live/mzb343.m3u8
 秦皇岛_开发区 戴河生态园1[1080P],https://live.pull.hebtv.com/live/mzb188.m3u8
@@ -903,6 +902,7 @@ BesTV Live 10[1080P],http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 石家庄_晋州 周家庄观光园2[1080P],https://live.pull.hebtv.com/live/mzb567.m3u8
 石家庄_裕华区 万达火车头步行街[1080P],https://live.pull.hebtv.com/live/mzb586.m3u8
 石家庄_正太饭店[1080P],https://live.pull.hebtv.com/live/mzb587.m3u8
+石家庄_中央绿色体育公园[1080P],https://live.pull.hebtv.com/live/mzb716.m3u8
 石家庄_辛集 润泽湖公园[1080P],https://live.pull.hebtv.com/live/mzb341.m3u8
 石家庄_无极 木刀沟生态湿地[1080P],https://live.pull.hebtv.com/live/mzb440.m3u8
 石家庄_解放广场[1080P],https://live.pull.hebtv.com/live/mzb452.m3u8
@@ -966,6 +966,7 @@ BesTV Live 10[1080P],http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 保定_涞水 野三坡[1080P],https://live.pull.hebtv.com/live/mzb634.m3u8
 保定_定州古城1[1080P],https://live.pull.hebtv.com/live/mzb106.m3u8
 保定_定州古城2[1080P],https://live.pull.hebtv.com/live/mzb427.m3u8
+保定_定州 众春园[1080P],https://live.pull.hebtv.com/live/mzb717.m3u8
 保定_恋乡·太行水镇[1080P],https://live.pull.hebtv.com/live/mzb593.m3u8
 保定_阜平 骆驼湾[1080P],https://live.pull.hebtv.com/live/mzb131.m3u8
 保定_阜平 顾家台[1080P],https://live.pull.hebtv.com/live/mzb177.m3u8
@@ -1039,8 +1040,7 @@ BesTV Live 10[1080P],http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 邯郸_磁县 磁州水墨园[1080P],https://live.pull.hebtv.com/live/mzb694.m3u8
 邯郸_丛台区 紫山公园1[1080P],https://live.pull.hebtv.com/live/mzb540.m3u8
 邯郸_丛台区 紫山公园2[1080P],https://live.pull.hebtv.com/live/mzb542.m3u8
-邯郸_丛台区 大磨山公园1[1080P],https://live.pull.hebtv.com/live/mzb541.m3u8
-邯郸_丛台区 大磨山公园2[1080P],https://live.pull.hebtv.com/live/mzb553.m3u8
+邯郸_丛台区 大磨山公园[1080P],https://live.pull.hebtv.com/live/mzb541.m3u8
 邯郸_复兴区 邯郸园博园1[1080P],https://live.pull.hebtv.com/live/mzb563.m3u8
 邯郸_复兴区 邯郸园博园2[1080P],https://live.pull.hebtv.com/live/mzb569.m3u8
 邯郸_临漳 邺城国家考古遗址公园[1080P],https://live.pull.hebtv.com/live/mzb518.m3u8
@@ -1156,7 +1156,7 @@ BesTV Live 10[1080P],http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 廊坊_只有红楼梦·戏剧幻城3[1080P],https://live.pull.hebtv.com/live/mzb472.m3u8
 廊坊_只有红楼梦·戏剧幻城4[1080P],https://live.pull.hebtv.com/live/mzb473.m3u8
 廊坊_固安 大湖公园[1080P],https://live.pull.hebtv.com/live/mzb588.m3u8
-廊坊_永清 兰亭公园[1080P],https://live.pull.hebtv.com/live/mzb223.m3u8
+廊坊_固安 兴安湖生态运动公园[1080P],https://live.pull.hebtv.com/live/mzb715.m3u8
 廊坊_文化艺术公园[1080P],https://live.pull.hebtv.com/live/mzb239.m3u8
 廊坊_大厂回族自治县 民族宫[1080P],https://live.pull.hebtv.com/live/mzb625.m3u8
 廊坊_大城 平舒公园[1080P],https://live.pull.hebtv.com/live/mzb558.m3u8
