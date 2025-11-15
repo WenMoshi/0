@@ -876,7 +876,7 @@ CCTV-风云剧场[576P],http://101.74.29.127:9901/tsfile/live/1015_1.m3u8?key=tx
 河北卫视 - 都市[1080P],http://101.74.29.127:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视 - 影视剧[1080P],http://101.74.29.127:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视 - 经济生活[1080P],http://101.74.29.127:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视 - 梨园频道,http://101.74.29.127:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视 - 梨园频道[1080P],http://101.74.29.127:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视 - 金鹰卡通[1080P],http://101.74.29.127:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 保定 - 新闻综合[1080P],http://101.74.29.127:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 保定 - 徐水TV1[1080P],http://101.74.29.127:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1097,6 +1097,10 @@ CCTV-风云剧场[576P],http://101.74.29.127:9901/tsfile/live/1015_1.m3u8?key=tx
 邯郸_广府古城[1080P],https://live.pull.hebtv.com/live/mzb196.m3u8
 邯郸_广平 东湖公园[1080P],https://live.pull.hebtv.com/live/mzb498.m3u8
 邯郸_丛台公园[1080P],https://live.pull.hebtv.com/live/mzb113.m3u8
+邯郸_丛台区 大磨山公园1[1080P],https://live.pull.hebtv.com/live/mzb541.m3u8
+邯郸_丛台区 大磨山公园2[1080P],https://live.pull.hebtv.com/live/mzb553.m3u8
+邯郸_丛台区 紫山公园1[1080P],https://live.pull.hebtv.com/live/mzb540.m3u8
+邯郸_丛台区 紫山公园2[1080P],https://live.pull.hebtv.com/live/mzb542.m3u8
 邯郸_赵苑公园[1080P],https://live.pull.hebtv.com/live/mzb654.m3u8
 邯郸_武安市 京娘湖风景区1[1080P],https://live.pull.hebtv.com/live/mzb121.m3u8
 邯郸_武安市 京娘湖风景区2[1080P],https://live.pull.hebtv.com/live/mzb500.m3u8
@@ -1112,6 +1116,7 @@ CCTV-风云剧场[576P],http://101.74.29.127:9901/tsfile/live/1015_1.m3u8?key=tx
 邯郸_武安市 东太行景区2[1080P],https://live.pull.hebtv.com/live/mzb493.m3u8
 邯郸_武安市 东太行景区3[1080P],https://live.pull.hebtv.com/live/mzb494.m3u8
 邯郸_武安市 东太行景区4[1080P],https://live.pull.hebtv.com/live/mzb495.m3u8
+邯郸_武安市 朝阳沟[1080P],https://live.pull.hebtv.com/live/mzb725.m3u8
 邯郸_磁县 天保寨景区[1080P],https://live.pull.hebtv.com/live/mzb535.m3u8
 邯郸_磁县 方特国色春秋1[1080P],https://live.pull.hebtv.com/live/mzb123.m3u8
 邯郸_磁县 方特国色春秋2[1080P],https://live.pull.hebtv.com/live/mzb573.m3u8
